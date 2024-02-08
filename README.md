@@ -6,7 +6,6 @@
 
 ![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinbafini&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbafini&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu utilizo 
 
@@ -19,4 +18,5 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbafini&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 	
