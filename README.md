@@ -17,4 +17,6 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="ts" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbafini&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ㅤ
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbafini&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
