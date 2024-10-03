@@ -1,3 +1,5 @@
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=30&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Kevin+Bafini!+🖐🏼;Developer+Full-stack!+👨🏼‍💻;)](https://git.io/typing-svg) 
 
 <br/>
