@@ -75,9 +75,9 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kevinbafinidaluz12@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kevin.bafini/?next=%2F)
-  [![Discord](https://img.shields.io/badge/CodenX-2e3440?style=for-the-badge)](https://codenx.com.br)
-  [![Discord](https://img.shields.io/badge/Portifolio-2e3440?style=for-the-badge)](https://kevindeveloper.com.br)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5517991606869)
+  [![CodenX](https://img.shields.io/badge/CodenX-2e3440?style=for-the-badge)](https://codenx.com.br)
+  [![Portifolio](https://img.shields.io/badge/Portifolio-2e3440?style=for-the-badge)](https://kevindeveloper.com.br)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevinbafini/)
   
 </div>
