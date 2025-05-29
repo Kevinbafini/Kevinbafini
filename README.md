@@ -78,7 +78,7 @@
   [![Discord](https://img.shields.io/badge/CodenX-2e3440?style=for-the-badge)](https://codenx.com.br)
   [![Discord](https://img.shields.io/badge/Portifolio-2e3440?style=for-the-badge)](https://kevindeveloper.com.br)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5517991606869)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevinbafini-b72a3b33a/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevinbafini/)
   
 </div>
 
